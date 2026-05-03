@@ -1,24 +1,6 @@
-# employee-app
 
-## Project setup
-```
-npm install
-```
+Screenshot:
+![outuput ](image.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Mockapi link:
+https://69f7306ddd0c226688ed8469.mockapi.io/Employee
